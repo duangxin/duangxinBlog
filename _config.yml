@@ -5,7 +5,7 @@
 # Site
 title: duangxinBlog
 subtitle: '记录 LLM、Agent、论文阅读与项目实践'
-description: 'duangxin 的个人博客：沉淀学习计划、研究总结、Agent 周报和项目记录。'
+description: 'duangxin 的个人博客：沉淀每周学习总结、周报、agent 热点和项目记录。'
 keywords:
   - LLM
   - Agent
@@ -69,7 +69,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: 学习总结
+default_category: 每周学习总结
 category_map:
 tag_map:
 
