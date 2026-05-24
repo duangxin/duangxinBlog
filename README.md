@@ -1,6 +1,6 @@
 # duangxinBlog
 
-个人博客源码，基于 Hexo 构建，计划部署到 Cloudflare Pages。
+个人博客源码，基于 Hexo 构建，使用 NexT 主题，计划部署到 Cloudflare Pages。
 
 ## 本地开发
 
@@ -18,6 +18,10 @@ npm run build
 ```
 
 生成结果会输出到 `public/`，Cloudflare Pages 的构建目录也应设置为 `public`。
+
+## 主题
+
+当前主题是 [NexT](https://github.com/theme-next/hexo-theme-next)，主题配置在 `_config.next.yml`。
 
 ## Cloudflare Pages 设置
 
